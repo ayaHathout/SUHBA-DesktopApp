@@ -29,7 +29,6 @@ SUHBA is a **Java-based desktop chat application** developed as part of the **IT
 ✅ **Status & Presence** – Online/offline indicators, availability modes (Available, Busy, Away)  
 ✅ **Secure Authentication** – User login via **phone number & password validation**  
 ✅ **AI Chatbot** – Integrated with **Gemini API** for automated responses  
-✅ **File Sharing** – Supports **documents, images, and videos**  
 ✅ **Admin Dashboard** – Server-side management for **monitoring and announcements**  
 ✅ **Multi-Client Communication** – **RMI-based** for secure, distributed networking  
 ✅ **Modern UI/UX** – Developed with **JavaFX, FXML**, and CSS for a **seamless user experience**
