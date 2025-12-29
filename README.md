@@ -216,7 +216,7 @@ The client UI will provide an intuitive interface for users to interact with the
 
 ![chat](UI/Screens/client/notification.png)
 
-6. **Caht Bot**
+6. **Chat Bot**
 
    - Users can interact with an AI-powered chatbot for quick assistance and information.
 
